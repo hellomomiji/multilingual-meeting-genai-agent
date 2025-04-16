@@ -6,6 +6,8 @@ Kaggle Notebook: [Kaggle Notebook](https://www.kaggle.com/code/hellomomiji/capst
 
 Github: [Github Repository](https://github.com/hellomomiji/multilingual-meeting-genai-agent)
 
+Blog Post: [https://hellomomiji.github.io/en/posts/2025-04-15-meeting-genai-agent/](https://hellomomiji.github.io/en/posts/2025-04-15-meeting-genai-agent/)
+
 ## Overview
 This agent is an intelligent agent built with LangGraph and Google's Gemini model that transforms raw meeting transcripts into structured, actionable information. It can:
 
