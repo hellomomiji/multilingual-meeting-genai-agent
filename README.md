@@ -2,6 +2,10 @@
 
 A multilingual meeting assistant that uses generative AI to automatically extract key information, action items, and provide translations from meeting transcripts.
 
+Kaggle Notebook: [Kaggle Notebook](https://www.kaggle.com/code/hellomomiji/capstone-project-gen-ai-intensive-course-2025q1)
+
+Github: [Github Repository](https://github.com/hellomomiji/multilingual-meeting-genai-agent)
+
 ## Overview
 This agent is an intelligent agent built with LangGraph and Google's Gemini model that transforms raw meeting transcripts into structured, actionable information. It can:
 
@@ -55,7 +59,7 @@ The system uses a directed graph pattern with LangGraph:
 - Connections with company knowledge bases
 - ...
 
-## Contributors
+## Owner
 Yang Jiang (Momiji) | [Linkedin](https://www.linkedin.com/in/yang-jiang-koyo)
 
 ## License
